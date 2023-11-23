@@ -1,0 +1,19 @@
+{
+    "name": "najmiddinbek/myhelper",
+    "description": "this package helps to you",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Myhelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Najmiddin",
+            "email": "129720773+bekdevz@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
